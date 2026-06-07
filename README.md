@@ -1,2 +1,8 @@
 # Python-learning-Journey
-My journey of learning Python and Statistics .
+My First python Repository
+
+This repository contains my Python practice program.
+I am learning:
+- Data Types
+- Variables
+
