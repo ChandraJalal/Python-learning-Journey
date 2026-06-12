@@ -5,4 +5,6 @@ This repository contains my Python practice program.
 I am learning:
 - Data Types
 - Variables
+- Operators
+- 
 
