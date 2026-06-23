@@ -6,5 +6,6 @@ I am learning:
 - Data Types
 - Variables
 - Operators
+- Input & Output
 
 
