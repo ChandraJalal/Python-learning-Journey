@@ -7,5 +7,6 @@ I am learning:
 - Variables
 - Operators
 - Input & Output
+- Type Casting
 
 
